@@ -2,7 +2,7 @@
 
 This Power BI dashboard enables interactive monitoring of major infrastructure projects across New Zealand, using official open government data. It helps identify project risks, analyse funding structure, and support strategic planning.
 
-## 📌 Purpose & Value
+##  Purpose & Value
 
 The dashboard provides:
 
@@ -15,7 +15,7 @@ The dashboard provides:
   - Assess budget allocation across agencies
   - Support government or stakeholder reporting
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 - **KPI Cards**: Total Projects, Total Budget, Projects > 36 months, Projects > $200M
 - **Status Pie Chart**: Compare "Planned" vs "Started" projects
@@ -24,7 +24,7 @@ The dashboard provides:
 - **Quarterly Trend Line**: Expected start timeline overview
 - **Risk Table**: Projects over $200M and longer than 36 months
 
-## 🧮 Data Filtering & Transformation (Power Query)
+##  Data Filtering & Transformation (Power Query)
 
 - Included projects with planned start from **2021 onwards**
 - Filtered to show **30 projects** with budgets between **$25M and $250M**
@@ -42,13 +42,13 @@ The dashboard provides:
 - Interactive slicers (Region, Status, Budget, Duration)
 - Dashboard design with multiple chart types
 
-## 📁 Files
+##  Files
 
 - `NZ_Infrastructure_Database.csv`: Source data from data.govt.nz
 - `INFRASTRUCTURE PROJECT MONITORING DASHBOARD.pbix`: Power BI file
 - Optional screenshots (PDF)
 
-## 📄 Data Source & License
+##  Data Source & License
 
 - **Source**: [New Zealand Infrastructure Pipeline](https://catalogue.data.govt.nz/dataset/new-zealand-infrastructure-pipeline)
 - **Publisher**: New Zealand Infrastructure Commission – Te Waihanga
