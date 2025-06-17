@@ -34,7 +34,7 @@ The dashboard provides:
   - `IsStart` (true if started before Jan 2024)
 - Cleaned dataset, removed duplicates, created a primary key
 
-## 🛠 Tools & Techniques
+##  Tools & Techniques
 
 - Power BI Desktop
 - Power Query Editor
