@@ -8,8 +8,8 @@ The dashboard provides:
 
 - **Project Overview**: Summarises infrastructure projects by budget, location, duration, and status
 - **Risk Alerts**:
-  - Identify projects with **excessive budgets** and **extended durations**
-  - Highlight **delayed starts** or stalled projects
+  - Identify projects with long durations
+  - Identify projects with high budgets
 - **Analytical Insights**:
   - Compare regional investment patterns
   - Assess budget allocation across agencies
