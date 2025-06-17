@@ -1,4 +1,4 @@
-# New Zealand Infrastructure Project Monitoring Dashboard
+# Portfolio Project – Power BI: NZ Infrastructure Monitoring
 
 This Power BI dashboard enables interactive monitoring of major infrastructure projects across New Zealand, using official open government data. It helps identify project risks, analyse funding structure, and support strategic planning.
 
