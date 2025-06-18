@@ -2,6 +2,9 @@
 
 This is a self-initiated Power BI portfolio project that enables interactive monitoring of major infrastructure projects across New Zealand, using official open government data. It was designed to demonstrate my skills in data modelling, dashboard design, and infrastructure KPI analysis.
 
+![image](https://github.com/user-attachments/assets/b84924b7-0fe2-49fd-8917-2a521accbd73)
+
+
 ##  Purpose & Value
 
 The dashboard provides:
